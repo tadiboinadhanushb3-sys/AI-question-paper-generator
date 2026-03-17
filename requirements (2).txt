@@ -1,0 +1,6 @@
+streamlit
+PyPDF2 
+random
+re
+io (BytesIO)
+reportlab
